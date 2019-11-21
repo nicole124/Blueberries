@@ -1,0 +1,80 @@
+body{
+    color:black;background-color:white;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    width: 30%;src: local(pasta.jpg); height: 40%; align=":right"
+}
+
+h1{
+    color: crimson; font-style: oblique; 
+}
+
+h1#go{
+    color: coral; font-style: unset;
+}
+
+div{
+    border-radius: 30px;
+    border: 15px solid #73AD21;
+    padding: 10px;
+    width: 700px;
+    height: 500px;
+    float: left;
+}
+
+#one{
+    border-radius: 30px;
+    border: 15px solid #73AD21;
+    padding: 10px;
+    width: 800px;
+    height: 500px;
+    float: right;
+}
+
+
+h3{
+    color: chocolate;
+}
+
+h4{
+    color: darkgreen;
+}
+
+#two{
+    border-radius: 30px;
+    border: 15px solid #73AD21;
+    padding: 10px;
+    width: 950px;
+    height: 700px;
+    float: left;
+}
+
+#header{
+    padding: 10px;
+    width: 700px;
+    height: 500px;
+    float: left;
+}
+
+#three{
+    border-radius: 30px;
+    border: 15px solid #73AD21;
+    padding: 10px;
+    width: 950px;
+    height: 700px;
+    float: right;
+}
+
+#four{
+    border-radius: 30px;
+    border: 15px solid #73AD21;
+    padding: 10px;
+    width: 950px;
+    height: 700px;
+    float: right; 
+}
+
+.top{
+    width: 100%; height: 50%;
+}

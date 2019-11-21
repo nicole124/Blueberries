@@ -1,0 +1,35 @@
+h1{
+    color: coral; background-color: whitesmoke; font-style: oblique; font-size: 200%; position: unset;
+}
+
+body{
+    background-color:blanchedalmond; float: right;
+}
+
+h2{
+    color: brown; font-style: inherit; 
+}
+
+img{
+    width: 100%; src: local(cookbox.jpg); height: 100%;
+}
+
+h3{
+    color: maroon; font-style: typewriter;
+}
+
+#one{
+    color: maroon; font-style: oblique;
+}
+
+div{
+    border-radius: 30px;
+    border: 10px coral
+    width: 1300px;
+    height: 900px;
+}
+
+.contact{
+    width: 10%; height: 10%;
+}
+
